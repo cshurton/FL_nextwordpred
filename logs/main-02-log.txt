@@ -1,0 +1,738 @@
+Read from ./csv/02-preprocessed_renamed.csv
+conductor created
+server created
+client named: Monica created.
+client named: Phoebe created.
+client named: Rachel created.
+client named: Chandler created.
+client named: Joey created.
+client named: Ross created.
+
+round # 1  -- day: 2009-04-06 started.
+clients chosen:  ['Chandler', 'Monica']
+Chandler is learning.
+Message from client Chandler goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 2  -- day: 2009-04-07 started.
+clients chosen:  ['Ross', 'Phoebe']
+Ross is learning.
+Message from client Ross goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 3  -- day: 2009-04-08 started.
+clients chosen:  ['Joey', 'Rachel']
+Joey is learning.
+Message from client Joey goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 4  -- day: 2009-04-09 started.
+clients chosen:  ['Phoebe', 'Chandler']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 5  -- day: 2009-04-10 started.
+clients chosen:  ['Monica', 'Rachel']
+Monica is learning.
+Message from client Monica goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 6  -- day: 2009-04-11 started.
+clients chosen:  ['Ross', 'Joey']
+Ross is learning.
+Message from client Ross goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 7  -- day: 2009-04-12 started.
+clients chosen:  ['Joey', 'Rachel']
+Joey is learning.
+Message from client Joey goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 8  -- day: 2009-04-13 started.
+clients chosen:  ['Chandler', 'Phoebe']
+Chandler is learning.
+Message from client Chandler goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 9  -- day: 2009-04-14 started.
+clients chosen:  ['Monica', 'Ross']
+Monica is learning.
+Message from client Monica goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 10  -- day: 2009-04-15 started.
+clients chosen:  ['Phoebe', 'Chandler']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 11  -- day: 2009-04-16 started.
+clients chosen:  ['Joey', 'Monica']
+Joey is learning.
+Message from client Joey goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 12  -- day: 2009-04-17 started.
+clients chosen:  ['Rachel', 'Ross']
+Rachel is learning.
+Message from client Rachel goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 13  -- day: 2009-04-18 started.
+clients chosen:  ['Chandler', 'Rachel']
+Chandler is learning.
+Message from client Chandler goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 14  -- day: 2009-04-19 started.
+clients chosen:  ['Monica', 'Phoebe']
+Monica is learning.
+Message from client Monica goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 15  -- day: 2009-04-20 started.
+clients chosen:  ['Joey', 'Ross']
+Joey is learning.
+Message from client Joey goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 16  -- day: 2009-04-21 started.
+clients chosen:  ['Joey', 'Phoebe']
+Joey is learning.
+Message from client Joey goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 17  -- day: 2009-04-22 started.
+clients chosen:  ['Rachel', 'Ross']
+Rachel is learning.
+Message from client Rachel goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 18  -- day: 2009-04-23 started.
+clients chosen:  ['Chandler', 'Monica']
+Chandler is learning.
+Message from client Chandler goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 19  -- day: 2009-04-24 started.
+clients chosen:  ['Rachel', 'Chandler']
+Rachel is learning.
+Message from client Rachel goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 20  -- day: 2009-04-25 started.
+clients chosen:  ['Ross', 'Phoebe']
+Ross is learning.
+Message from client Ross goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 21  -- day: 2009-04-26 started.
+clients chosen:  ['Joey', 'Monica']
+Joey is learning.
+Message from client Joey goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 22  -- day: 2009-04-27 started.
+clients chosen:  ['Phoebe', 'Ross']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 23  -- day: 2009-04-28 started.
+clients chosen:  ['Monica', 'Joey']
+Monica is learning.
+Message from client Monica goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 24  -- day: 2009-04-29 started.
+clients chosen:  ['Rachel', 'Chandler']
+Rachel is learning.
+Message from client Rachel goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 25  -- day: 2009-04-30 started.
+clients chosen:  ['Phoebe', 'Joey']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 26  -- day: 2009-05-01 started.
+clients chosen:  ['Rachel', 'Chandler']
+Rachel is learning.
+Message from client Rachel goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 27  -- day: 2009-05-02 started.
+clients chosen:  ['Ross', 'Monica']
+Ross is learning.
+Message from client Ross goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 28  -- day: 2009-05-03 started.
+clients chosen:  ['Joey', 'Rachel']
+Joey is learning.
+Message from client Joey goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 29  -- day: 2009-05-04 started.
+clients chosen:  ['Ross', 'Chandler']
+Ross is learning.
+Message from client Ross goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 30  -- day: 2009-05-05 started.
+clients chosen:  ['Monica', 'Phoebe']
+Monica is learning.
+Message from client Monica goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 31  -- day: 2009-05-06 started.
+clients chosen:  ['Ross', 'Phoebe']
+Ross is learning.
+Message from client Ross goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 32  -- day: 2009-05-07 started.
+clients chosen:  ['Monica', 'Rachel']
+Monica is learning.
+Message from client Monica goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 33  -- day: 2009-05-08 started.
+clients chosen:  ['Chandler', 'Joey']
+Chandler is learning.
+Message from client Chandler goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 34  -- day: 2009-05-09 started.
+clients chosen:  ['Rachel', 'Joey']
+Rachel is learning.
+Message from client Rachel goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 35  -- day: 2009-05-10 started.
+clients chosen:  ['Phoebe', 'Chandler']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 36  -- day: 2009-05-11 started.
+clients chosen:  ['Ross', 'Monica']
+Ross is learning.
+Message from client Ross goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 37  -- day: 2009-05-12 started.
+clients chosen:  ['Ross', 'Joey']
+Ross is learning.
+Message from client Ross goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 38  -- day: 2009-05-13 started.
+clients chosen:  ['Phoebe', 'Rachel']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 39  -- day: 2009-05-14 started.
+clients chosen:  ['Monica', 'Chandler']
+Monica is learning.
+Message from client Monica goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 40  -- day: 2009-05-15 started.
+clients chosen:  ['Monica', 'Rachel']
+Monica is learning.
+Message from client Monica goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 41  -- day: 2009-05-16 started.
+clients chosen:  ['Ross', 'Chandler']
+Ross is learning.
+Message from client Ross goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 42  -- day: 2009-05-17 started.
+clients chosen:  ['Phoebe', 'Joey']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 43  -- day: 2009-05-18 started.
+clients chosen:  ['Phoebe', 'Monica']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 44  -- day: 2009-05-19 started.
+clients chosen:  ['Chandler', 'Joey']
+Chandler is learning.
+Message from client Chandler goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 45  -- day: 2009-05-20 started.
+clients chosen:  ['Ross', 'Rachel']
+Ross is learning.
+Message from client Ross goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 46  -- day: 2009-05-21 started.
+clients chosen:  ['Phoebe', 'Chandler']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 47  -- day: 2009-05-22 started.
+clients chosen:  ['Ross', 'Joey']
+Ross is learning.
+Message from client Ross goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 48  -- day: 2009-05-23 started.
+clients chosen:  ['Monica', 'Rachel']
+Monica is learning.
+Message from client Monica goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 49  -- day: 2009-05-24 started.
+clients chosen:  ['Ross', 'Monica']
+Ross is learning.
+Message from client Ross goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 50  -- day: 2009-05-25 started.
+clients chosen:  ['Phoebe', 'Rachel']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 51  -- day: 2009-05-26 started.
+clients chosen:  ['Chandler', 'Joey']
+Chandler is learning.
+Message from client Chandler goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 52  -- day: 2009-05-27 started.
+clients chosen:  ['Chandler', 'Phoebe']
+Chandler is learning.
+Message from client Chandler goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 53  -- day: 2009-05-28 started.
+clients chosen:  ['Monica', 'Joey']
+Monica is learning.
+Message from client Monica goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 54  -- day: 2009-05-29 started.
+clients chosen:  ['Rachel', 'Ross']
+Rachel is learning.
+Message from client Rachel goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 55  -- day: 2009-05-30 started.
+clients chosen:  ['Phoebe', 'Rachel']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 56  -- day: 2009-05-31 started.
+clients chosen:  ['Chandler', 'Joey']
+Chandler is learning.
+Message from client Chandler goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 57  -- day: 2009-06-01 started.
+clients chosen:  ['Ross', 'Monica']
+Ross is learning.
+Message from client Ross goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 58  -- day: 2009-06-02 started.
+clients chosen:  ['Rachel', 'Monica']
+Rachel is learning.
+Message from client Rachel goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 59  -- day: 2009-06-03 started.
+clients chosen:  ['Phoebe', 'Chandler']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 60  -- day: 2009-06-04 started.
+clients chosen:  ['Ross', 'Joey']
+Ross is learning.
+Message from client Ross goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 61  -- day: 2009-06-05 started.
+clients chosen:  ['Rachel', 'Joey']
+Rachel is learning.
+Message from client Rachel goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 62  -- day: 2009-06-06 started.
+clients chosen:  ['Ross', 'Phoebe']
+Ross is learning.
+Message from client Ross goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 63  -- day: 2009-06-07 started.
+clients chosen:  ['Monica', 'Chandler']
+Monica is learning.
+Message from client Monica goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 64  -- day: 2009-06-08 started.
+clients chosen:  ['Joey', 'Ross']
+Joey is learning.
+Message from client Joey goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 65  -- day: 2009-06-09 started.
+clients chosen:  ['Chandler', 'Rachel']
+Chandler is learning.
+Message from client Chandler goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 66  -- day: 2009-06-10 started.
+clients chosen:  ['Monica', 'Phoebe']
+Monica is learning.
+Message from client Monica goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 67  -- day: 2009-06-11 started.
+clients chosen:  ['Joey', 'Monica']
+Joey is learning.
+Message from client Joey goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 68  -- day: 2009-06-12 started.
+clients chosen:  ['Chandler', 'Phoebe']
+Chandler is learning.
+Message from client Chandler goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 69  -- day: 2009-06-13 started.
+clients chosen:  ['Ross', 'Rachel']
+Ross is learning.
+Message from client Ross goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 70  -- day: 2009-06-14 started.
+clients chosen:  ['Rachel', 'Joey']
+Rachel is learning.
+Message from client Rachel goes to server.
+Joey is learning.
+Message from client Joey goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 71  -- day: 2009-06-15 started.
+clients chosen:  ['Phoebe', 'Ross']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 72  -- day: 2009-06-16 started.
+clients chosen:  ['Chandler', 'Monica']
+Chandler is learning.
+Message from client Chandler goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 73  -- day: 2009-06-17 started.
+clients chosen:  ['Phoebe', 'Monica']
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 74  -- day: 2009-06-18 started.
+clients chosen:  ['Joey', 'Rachel']
+Joey is learning.
+Message from client Joey goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 75  -- day: 2009-06-19 started.
+clients chosen:  ['Ross', 'Chandler']
+Ross is learning.
+Message from client Ross goes to server.
+Chandler is learning.
+Message from client Chandler goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 76  -- day: 2009-06-20 started.
+clients chosen:  ['Chandler', 'Monica']
+Chandler is learning.
+Message from client Chandler goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 77  -- day: 2009-06-21 started.
+clients chosen:  ['Rachel', 'Phoebe']
+Rachel is learning.
+Message from client Rachel goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 78  -- day: 2009-06-22 started.
+clients chosen:  ['Joey', 'Ross']
+Joey is learning.
+Message from client Joey goes to server.
+Ross is learning.
+Message from client Ross goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 79  -- day: 2009-06-23 started.
+clients chosen:  ['Ross', 'Rachel']
+Ross is learning.
+Message from client Ross goes to server.
+Rachel is learning.
+Message from client Rachel goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 80  -- day: 2009-06-24 started.
+clients chosen:  ['Chandler', 'Monica']
+Chandler is learning.
+Message from client Chandler goes to server.
+Monica is learning.
+Message from client Monica goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
+
+round # 81  -- day: 2009-06-25 started.
+clients chosen:  ['Joey', 'Phoebe']
+Joey is learning.
+Message from client Joey goes to server.
+Phoebe is learning.
+Message from client Phoebe goes to server.
+Server calculates average weights.
+New averaged weights are sent to participating clients.
